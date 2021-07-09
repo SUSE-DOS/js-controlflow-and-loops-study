@@ -1,4 +1,5 @@
 [<img src="assets/images/su-logo.png" alt="Skills Union Logo" height="80px" />](https://www.skillsunion.com/)
+
 # JavaScript Control-flow & Loops: Study
 
 Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along with the provided resources to research and answer the [questions below](#questions).
@@ -13,48 +14,47 @@ Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along 
 
 - Use your discretion
 
-
 ## Questions
 
 1. Will the `alert` message be shown?
 
-    **Example:**
+   **Example:**
 
-    ```js
-    if (42) {
-      alert("👋 Hi!");
-    }
-    ```
+   ```js
+   if (42) {
+     alert("👋 Hi!");
+   }
+   ```
 
-    **Answer:**
+   **Answer:**
 
-    ```
-    Please write your answer here.
-    ```
+   ```
+   The condition will be true so the alert code will run.
+   ```
 
 1. Will this loop ever stop? And is it a good idea?
 
-    ** Example:**
+   ** Example:**
 
-    ```js
-    while(true) {
-      console.log("It goes on and on...");
-    }
-    ```
+   ```js
+   while (true) {
+     console.log("It goes on and on...");
+   }
+   ```
 
-    **Answer:**
+   **Answer:**
 
-    ```
-    Please write your answer here.
-    ```
+   ```
+   There is no break statement so the console will keep looping. This is not good practice as the software will eventually crash.
+   ```
 
 1. Using a "Fist to Five", what is your comfort and clarity level?
 
-    ```
-    Comfort: 
+   ```
+   Comfort: 7
 
-    Clarity: 
-    ```
+   Clarity: 7
+   ```
 
 ### Response Guidelines
 
