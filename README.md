@@ -1,4 +1,5 @@
 [<img src="assets/images/su-logo.png" alt="Skills Union Logo" height="80px" />](https://www.skillsunion.com/)
+
 # JavaScript Control-flow & Loops: Study
 
 ## Learning Objectives
